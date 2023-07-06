@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/n04ljp29h783xn18?svg=true)](https://ci.appveyor.com/project/Sirotina/api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/fly7tshlc7amlm7e?svg=true)](https://ci.appveyor.com/project/Sirotina/postman)
